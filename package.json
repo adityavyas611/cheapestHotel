@@ -1,0 +1,19 @@
+{
+  "name": "hotelroomreservation",
+  "version": "1.0.0",
+  "description": "A script to find the cheapest hotel for user",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "cheap",
+    "hotel"
+  ],
+  "author": "Aditya Vyas",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.0.0",
+    "live-server": "^1.2.1"
+  }
+}
